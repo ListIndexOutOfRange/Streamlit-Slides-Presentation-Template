@@ -1,0 +1,4 @@
+page_title = "Presentation 01.01.1000"
+header = "Header"
+subheader = "Sub header"
+footer = "Made with Streamlit by Luc Vedrenne, copyright 2023"
