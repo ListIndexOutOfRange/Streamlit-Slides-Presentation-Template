@@ -1,5 +1,6 @@
 # Template for Streamlit based Slides Presentation
 
+[demo.webm](https://user-images.githubusercontent.com/49729757/227623886-7d85c8dd-efd0-4f29-8d2e-0e1619ea7b5f.webm)
 
 This repo provides a minimal working example to create slides presentation using Streamlit.     
 The example app contains basic instructions to create such a presentation.
