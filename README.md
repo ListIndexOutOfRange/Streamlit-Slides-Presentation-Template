@@ -26,4 +26,11 @@ The app contains basics instructions.
 The core idea is to create one python file per slide, inside the `slides/` folder.
 This file **must** contain a `main() -> None` function that will be used to display the slide's content.
 
-### If the navigation arrow don't show up, refresh the page
+
+## Tips / Troobleshooting
+
+- **If the navigation arrow don't show up, refresh the page**
+- **You can change the theme to light or dark by using the burger menu on the top right of the app**
+
+
+
