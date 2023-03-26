@@ -1,8 +1,9 @@
 from __future__ import annotations
 import streamlit as st
-import streamlit_nested_layout  # noqa: F401
 from image_button import image_button
 import slides
+if slides.CONFIG["nested_layout"]:
+    import streamlit_nested_layout  # noqa: F401
 
 
 def init() -> None:
