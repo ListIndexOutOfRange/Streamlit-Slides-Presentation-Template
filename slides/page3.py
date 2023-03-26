@@ -21,7 +21,7 @@ def main() -> None:
             a \left(\frac{1-r^{n}}{1-r}\right)
         ''')
         st.write("___")
-        st.write(
-            "**Please to refer to the [streamlit documentation](https://docs.streamlit.io/) to \
-             format your pages.**"
-        )
+        st.write("""
+            **Please to refer to the [streamlit documentation](https://docs.streamlit.io/) to
+             format your pages.**
+        """)

@@ -21,7 +21,7 @@ def main() -> None:
     _, center, _ = st.columns([1, 3, 1])
     with center:
         st.markdown("""
-            You can create interactive plot using Plotly. I recommand creating a separated \
+            You can create interactive plot using Plotly. I recommand creating a separated
             function that returns a go.Figure() object, then calling:
         """)
         st.code("st.plotly_chart(fig, use_container_width=True)")

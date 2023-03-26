@@ -11,7 +11,7 @@ def main() -> None:
         st.code('st.image("./assets/ae.png", use_column_width=True)')
         st.image("./assets/ae.png", use_column_width=True)
         st.write("___")
-        st.write(
-            "**Please to refer to the [streamlit documentation](https://docs.streamlit.io/) to \
-             format your pages.**"
-        )
+        st.write("""
+            **Please to refer to the [streamlit documentation](https://docs.streamlit.io/) to
+             format your pages.**
+        """)
